@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    position: absolute;
+    width: 100vw;
+    overflow-x: hidden;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.header-icon {
+    height: 2rem;
+    width: 2rem;
+    padding-top: 4rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+.intro {
+    display: flex;
+    background: #fee932;
+}
+
+.intro-text {
+    width: 100%;
+}
+
+.intro img {
+
+    width: 50%;
+}
+
+
